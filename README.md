@@ -12,6 +12,6 @@ npm run dev
 
 <h2>
   <bold>
-    When shifting to mobile or tablet or desktop refresh the to see the changes
+    When shifting to mobile / tablet / desktop refresh the page to see the changes
   </bold>
 </h2>
