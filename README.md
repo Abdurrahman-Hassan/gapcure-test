@@ -1,14 +1,14 @@
 # React + Vite
 
 # node modules install:
-'''
+```
 npm install
-'''
+```
 
 # running the envoirment:
-'''
+```
 npm run dev
-'''
+```
 
 <h2>
   <bold>
